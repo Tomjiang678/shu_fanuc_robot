@@ -1,0 +1,2 @@
+# shu_fanuc_robot
+fanuc_6joints_robot trajectory optimizer
